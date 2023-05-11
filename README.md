@@ -1,6 +1,6 @@
 # Setting up Ubuntu for Flutter Development
 
-## Installing fl
+## Installing flutter
 ``` bash
 sudo snap install flutter --classic
 ```
