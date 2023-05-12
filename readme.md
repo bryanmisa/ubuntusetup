@@ -12,6 +12,14 @@ sudo chown gdm:gdm ~gdm/.config/monitors.xml
 ``` bash
 sudo apt-get install openconnect network-manager-openconnect-gnome
 ```
+# Installing VMware Workstation Pro 17
+**Pre Requisites**
+``` bash
+sudo apt install build-essential
+```
+``` bash
+sudo sh VMware-Workstation-Full-16.2.4-20089737.x86_64-Linux.bundle
+```
 
 # Setting up Ubuntu for Flutter Development
 
