@@ -5,8 +5,11 @@ sudo cp ~/.config/monitors.xml ~gdm/.config/monitors.xml
 ``` bash
 sudo chown gdm:gdm ~gdm/.config/monitors.xml
 ```
+# Install Cisco VPN OpenConnect on Gnome
 
-
+``` bash
+sudo apt-get install openconnect network-manager-openconnect-gnome
+```
 
 # Setting up Ubuntu for Flutter Development
 
