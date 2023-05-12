@@ -1,3 +1,13 @@
+# Settings after installation
+``` bash
+sudo cp ~/.config/monitors.xml ~gdm/.config/monitors.xml
+```
+``` bash
+sudo chown gdm:gdm ~gdm/.config/monitors.xml
+```
+
+
+
 # Setting up Ubuntu for Flutter Development
 
 ## Installing flutter
