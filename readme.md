@@ -1,4 +1,6 @@
 # Settings after installation
+
+## Applying the monitor settings on the login screen
 ``` bash
 sudo cp ~/.config/monitors.xml ~gdm/.config/monitors.xml
 ```
