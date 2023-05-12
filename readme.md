@@ -20,6 +20,10 @@ sudo apt-get install openconnect network-manager-openconnect-gnome
 sudo snap install flutter --classic
 ```
 
+``` bash
+flutter doctor
+```
+
 ## Installing Android Studio (Updated)
 ``` bash
 sudo add-apt-repository ppa:maarten-fonville/android-studio
