@@ -20,7 +20,11 @@ sudo apt install build-essential
 ``` bash
 sudo sh VMware-Workstation-Full-16.2.4-20089737.x86_64-Linux.bundle
 ```
-
+# Running Balena Etcher
+## Installing Pre-requisites
+``` bash
+sudo apt install libfuse2
+```
 # Setting up Ubuntu for Flutter Development
 
 ## Installing flutter
